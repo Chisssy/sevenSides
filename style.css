@@ -1,0 +1,46 @@
+body, h1 {
+	font-family: 'Raleway', sans-serif;
+    }
+	
+.WhatI {
+	background-color: #FCF9E3;
+}
+	
+#eval {
+	background-color: #A0B7BA;
+	}
+
+.nav a{
+  color: #5a5a5a;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+}
+.nav li {
+    display: inline;
+}
+
+hr { 
+	border-top: 1px double dashed #8c8b8b;
+	padding: 0px;
+	margin: 0px;
+	color: #46B1C9;
+}
+	
+.MainNav {
+	font-family: 'Raleway', sans-serif;
+	color: pink;
+	margin-top: 3px;
+	text-align: center;
+	}
+
+/* color scheme
+#FCF9E3
+#46B1C9
+#84C0C6
+#BCC1BA
+#9FB7B9
+
+*/
